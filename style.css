@@ -76,3 +76,102 @@ body {
 #submit:hover {
   background: orange;
 }
+
+
+#title {
+  display: flex;
+  justify-content: space-between;
+}
+
+#about {
+  padding-left: 250px;
+  padding-top: 10px;
+  padding-right: 150px;
+}
+
+.text {
+  padding-top: 0px;
+  padding-left: 180px;
+  padding-right: 100px;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+img {
+  padding: 0px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+  background: #e8e7e7;
+}
+
+.battery {
+  transform: rotate(-180deg);
+  padding-top: 10px;
+  margin-left: 20px;
+}
+
+.fire {
+  padding-top: 10px;
+}
+.truck {
+  padding-top: 10px;
+}
+
+.photo {
+  margin-top: 10px;
+}
+
+.Quality {
+  margin-top: -80px;
+  margin-left: 180px;
+}
+
+
+#title {
+  display: flex;
+  justify-content: space-between;
+}
+
+#about {
+  padding-left: 250px;
+  padding-top: 10px;
+  padding-right: 150px;
+}
+
+.text {
+  padding-top: 0px;
+  padding-left: 180px;
+  padding-right: 100px;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+img {
+  padding: 0px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+  background: #e8e7e7;
+}
+
+.battery {
+  transform: rotate(-180deg);
+  padding-top: 10px;
+  margin-left: 20px;
+}
+
+.fire {
+  padding-top: 10px;
+}
+.truck {
+  padding-top: 10px;
+}
+
+.photo {
+  margin-top: 10px;
+}
+
+.Quality {
+  margin-top: -80px;
+  margin-left: 180px;
+}
+
