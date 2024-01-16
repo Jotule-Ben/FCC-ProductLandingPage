@@ -175,3 +175,10 @@ img {
   margin-left: 180px;
 }
 
+#video {
+  margin-left: 450px;
+  margin-right: 50px;
+  margin-top: 80px;
+  height: 350px;
+  width: 660px;
+}
