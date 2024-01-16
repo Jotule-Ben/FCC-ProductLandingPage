@@ -77,7 +77,6 @@ body {
   background: orange;
 }
 
-
 #title {
   display: flex;
   justify-content: space-between;
@@ -125,7 +124,6 @@ img {
   margin-top: -80px;
   margin-left: 180px;
 }
-
 
 #title {
   display: flex;
@@ -249,4 +247,12 @@ img {
 
 .btn:hover {
   background: orange;
+}
+
+footer {
+  text-align: right;
+  background: #dedddd;
+  padding: 20px;
+  margin: 0px 180px;
+  font-size: 18px;
 }
