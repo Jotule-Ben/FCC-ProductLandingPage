@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "DM Sans", sans-serif;
+  font-family: "Inter", sans-serif;
+  font-family: "Poppins", sans-serif;
+  background: #e8e7e7;
+}
+
+#header-img {
+  width: 25%;
+  height: 20%;
+  margin: 15px;
+  font-size: small;
+}
+
+#header {
+  background: #e8e7e7;
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+}
+
+#nav-bar {
+  display: flex;
+  font-weight: 100;
+  font-family: sans-serif;
+}
+
+.nav-link {
+  margin: 10px;
+  margin-top: 25px;
+  margin-right: 100px;
+  font-size: 20px;
+}
+
+:any-link {
+  color: #161616;
+  text-decoration: none;
+}
